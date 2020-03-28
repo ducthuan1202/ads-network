@@ -3,9 +3,9 @@
 ## Thuật ngữ
 - **Advertiser** là những cá nhân, tổ chức cần mua vị trí quảng cáo trên các website để quảng bá thông tin về sản phẩm, thương hiệu của họ.
 
-- **Publisher** là những cá nhận, tổ chức sở hữu website và có không gian trống trên website để bán quảng cáo.
+- **Publisher** là những cá nhân, tổ chức sở hữu website và có không gian trống trên website để bán quảng cáo.
 
-- **Advertising Network** là một mạng lưới quảng cáo trực tuyến do một đơn vị trung gian làm cầu nối giữa `Advertiser` và `Publisher`.
+- **Advertising Network** là một MẠNG LƯỚI QUẢNG CÁO TRỰC TUYẾN do một đơn vị trung gian đứng ra làm cầu nối giữa `Advertiser` và `Publisher`.
 
 - **DSP: Demand Side Platforms** là hệ thống giúp các `Advertiser` cài đặt, quản lý và tối ưu các chiến dịch marketing (`campaigns`) theo thời gian thực.
 
