@@ -1,3 +1,3 @@
 # Tìm hiểu về Ads Network - Mạng lưới quảng cáo 
 
-- [Thuật ngữ, khái niệm cơ bản](concept.md)
+- [Thuật ngữ, khái niệm cơ bản](concepts.md)
