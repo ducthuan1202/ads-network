@@ -1,18 +1,18 @@
 # Thuật ngữ, khái niệm cơ bản
 
 ## Thuật ngữ
-- **Advertiser** là những người cần mua quảng cáo để quảng bá thông tin về sản phẩm, thương hiệu hoặc website.
+- **Advertiser** là những cá nhân, tổ chức cần mua vị trí quảng cáo trên các website để quảng bá thông tin về sản phẩm, thương hiệu của họ.
 
-- **Publisher** là những người sở hữu website và có không gian trống trên website để bán quảng cáo. Việc bán quảng cáo trên website của Publisher vừa giúp tăng thu nhập và làm website trông chuyên nghiệp hơn.
+- **Publisher** là những cá nhận, tổ chức sở hữu website và có không gian trống trên website để bán quảng cáo.
 
-- **Ads network** hay `Advertising network` là một mạng lưới quảng cáo trực tuyến do một đơn vị trung gian làm cầu nối giữa người mua quảng cáo (`Advertiser` – nhà quảng cáo) và người bán quảng cáo (`Publisher` – nhà xuất bản website).
+- **Advertising Network** là một mạng lưới quảng cáo trực tuyến do một đơn vị trung gian làm cầu nối giữa `Advertiser` và `Publisher`.
 
-- **DSP: Demand Side Platforms** là hệ thống bên mua, giúp các `Advertiser` quản lý chiến dịch marketing và tối ưu hóa giá mua theo thời gian thực.
+- **DSP: Demand Side Platforms** là hệ thống giúp các `Advertiser` cài đặt, quản lý và tối ưu các chiến dịch marketing (`campaigns`) theo thời gian thực.
 
-- **SSP: Supply Side Platforms** là hệ thống bên bán, giúp các `Publisher` quản lý các ad slot và tối ưu hóa giá bán khởi điểm theo thời gian thực.
+- **SSP: Supply Side Platforms** là hệ thống giúp các `Publisher` quản lý các và tối ưu hóa các vị trị quảng cáo trên website theo thời gian thực.
 
 ## Khái niệm
-Đa phần, các khái niệm tính toán trong quảng cáo đều bắt đầu bằng `CP (Cost Per)`. CP ở đây được hiểu là chi phí cho mỗi lần làm một cái gì đó. Để hiểu chi tiết hơn thì hãy đọc cái khái niệm cụ thể bên dưới:
+Đa phần, các khái niệm tính toán trong quảng cáo đều bắt đầu bằng `Cost Per (CP)`. CP ở đây được hiểu là chi phí cho mỗi lần làm một cái gì đó. Để hiểu chi tiết hơn thì hãy đọc cái khái niệm cụ thể bên dưới:
 
 - **CPI**
     - `Cost Per Impression`: CHI PHÍ CHO MỖI LẦN HIỆN QUẢNG CÁO ẤN TƯỢNG. Có nghĩa là giá cho mỗi lần hiển thị quảng cáo. Tuy nhiên, do số lần hiển thị quảng cáo có thể rất rất cao nên chúng ta có thêm khái niệm `CPM` (1CPM = 1000CPI).
