@@ -1,41 +1,38 @@
 # Thuật ngữ, khái niệm cơ bản
 
 ## Thuật ngữ
-- **Ads network** hay `Advertising network` – Mạng quảng cáo trực tuyến - là một mạng lưới do một đơn vị trung gian làm cầu nối giữa người mua quảng cáo (`Advertiser` – nhà quảng cáo) và người bán quảng cáo (`Publisher` – nhà xuất bản website).
-
 - **Advertiser** là những người cần mua quảng cáo để quảng bá thông tin về sản phẩm, thương hiệu hoặc website.
 
-- **Publishers** là những người sở hữu website và có không gian trống trên website để bán quảng cáo. Việc bán quảng cáo trên website của Publisher vừa giúp tăng thu nhập và làm website trông chuyên nghiệp hơn.
+- **Publisher** là những người sở hữu website và có không gian trống trên website để bán quảng cáo. Việc bán quảng cáo trên website của Publisher vừa giúp tăng thu nhập và làm website trông chuyên nghiệp hơn.
 
-- **Demand-side platforms (DSP)** là hệ thống bên mua, giúp các `advertiser` quản lý chiến dịch marketing và tối ưu hóa giá mua theo thời gian thực.
+- **Ads network** hay `Advertising network` là một mạng lưới quảng cáo trực tuyến do một đơn vị trung gian làm cầu nối giữa người mua quảng cáo (`Advertiser` – nhà quảng cáo) và người bán quảng cáo (`Publisher` – nhà xuất bản website).
 
-- **Supply-side platforms (SSP)** là hệ thống bên bán, giúp các `publisher` quản lý các ad slot và tối ưu hóa giá bán khởi điểm theo thời gian thực.
+- **DSP: Demand Side Platforms** là hệ thống bên mua, giúp các `Advertiser` quản lý chiến dịch marketing và tối ưu hóa giá mua theo thời gian thực.
+
+- **SSP: Supply Side Platforms** là hệ thống bên bán, giúp các `Publisher` quản lý các ad slot và tối ưu hóa giá bán khởi điểm theo thời gian thực.
 
 ## Khái niệm
-- **CPI: Cost Per Impression**
-    - `Cost Per Impression` hay còn được viết tắt thành CPI, đây là một câu thường dành cho quảng cáo trực tuyến hoặc các tiếp thị liên quan tới lưu lượng web.
-    - Nó được dùng để đo lường tính hiệu quả và giá cả của các chiến dịch tiếp thị điện tử. Kỹ thuật này đã được áp dụng cho các `web banner`, `text link`, `e-mai spam`, và các email quảng cáo hợp lệ, mặc dù các email quảng cáo hợp lệ đã có nhiều thay đổi để trở thành dạng quảng cáo `Cost Per Action` (`CPA`).
-    - Còn được hiểu là `Cost Per Thousand` hay `CPM`, tức là trả cho mỗi nghìn (M ở đây là hàng nghìn trong chữ latin), khi nó được sử dụng cho quảng cáo, nó có liên quan tới việc trả cho mỗi nghìn quảng cáo ấn tượng được tính. _Điều này rất quan trọng để ghi nhớ rằng, khi một ai đó nói rằng "CPM của tôi là $5" thì nó có nghĩa CPI là $0.005._
+Đa phần, các khái niệm tính toán trong quảng cáo đều bắt đầu bằng `CP (Cost Per)`. CP ở đây được hiểu là chi phí cho mỗi lần làm một cái gì đó. Để hiểu chi tiết hơn thì hãy đọc cái khái niệm cụ thể bên dưới:
 
-- **CPM: Cost Per 1000 impressions**
-    - `CPM` là chữ viết tắt của `Cost Per 1000 impressions` _(giá mỗi 1000 lần hiển thị)_.
-    - Nhà quảng cáo chạy quảng cáo CPM sẽ đặt giá mong muốn cho mỗi 1000 lần quảng cáo được phục vụ, chọn vị trí đặt quảng cáo cụ thể để hiển thị quảng cáo và trả tiền mỗi khi quảng cáo của họ xuất hiện.
+- **CPI**
+    - `Cost Per Impression`: CHI PHÍ CHO MỖI LẦN HIỆN QUẢNG CÁO ẤN TƯỢNG. Có nghĩa là giá cho mỗi lần hiển thị quảng cáo. Tuy nhiên, do số lần hiển thị quảng cáo có thể rất rất cao nên chúng ta có thêm khái niệm `CPM` (1CPM = 1000CPI).
+
+- **CPM**
+    - `Cost Per 1000 impressions` là giá mỗi 1000 lần hiển thị.
 
 - **_eCPM_**
-    - `eCPM` được gọi là Giá cho mỗi 1000 lần hiển thị hiệu dụng, hoặc được gọi là `CPM hiệu dụng`, đó là con số được sử dụng một cách phổ biến trong các chương trình quảng cáo.
-    - Các con số này cho phép bạn theo dõi hiệu suất quảng cáo của mình bằng cách so sánh các khoản thu nhập trên các trang và trang web khác nhau.
+    - `effective Cost Per 1000 Impressions` được gọi là giá cho mỗi 1000 lần hiển thị hiệu dụng, hoặc được gọi là `CPM hiệu dụng`, đó là con số được sử dụng một cách phổ biến trong các chương trình quảng cáo. Con số này cho phép bạn theo dõi hiệu suất quảng cáo của mình bằng cách so sánh các khoản thu nhập trên các trang và trang web khác nhau.
 
-- **CPC: Cost Per Click**
-    - Giá mỗi lần nhấp chuột (`CPC`) là số tiền bạn kiếm được mỗi lần người dùng nhấp chuột vào quảng cáo của bạn.
-    - CPC cho bất kỳ quảng cáo nào đều do nhà quảng cáo xác định; một số nhà quảng cáo có thể sẵn sàng trả nhiều tiền hơn cho mỗi lần nhấp chuột so với các nhà quảng cáo khác, tùy vào thứ mà họ đang quảng cáo.
+- **CPC**
+    - `Cost Per Click` là giá cho mỗi lần người dùng nhấp chuột vào quảng cáo của bạn. Giá trị `CPC` do nhà quảng cáo xác định.
 
-- **CPA: Cost Per Acquisition**
-    - CPA là viết tắt của Cost Per Action, Còn được gọi là PPA (Pay Per Action) hay CPL (Cost per Lead) hay CPS (Cost per Sales), là một dạng định giá cho quảng cáo trực tuyến, nhà quảng cáo trả tiền cho mỗi hành động đặc biệt (như thanh toán, chấp nhận một bản đăng ký, hoặc tương tự) kết nối tới nhà quảng cáo.
-    - CPA (Cost Per Action) được hiểu là thành toán cho mỗi hành động, nhưng cũng được hiểu là "Cost Per Acquisition" nghĩa là thành toán cho mỗi thứ hàng được mua. Điều này đã được làm hầu hết qua CPA với lời mời từ nhà quảng cáo về việc nhận lấy một thứ gì đó (Điển hình là khách hàng chấp nhận trả tiền cho một sản phẩm). Sử dụng điều khoản của "Cost Per Acquisition" thay cho "Cost Per Action" không hề sai lệch. Điều này thực sự rất rõ ràng, "Cost Per Acquisition" có thể bao gồm cả "Cost Per Action" nhưng không phải tất cả "Cost Per Action" có thể được coi như "Cost Per Acquisition".
-    - Tính toán CPA = chi tiêu / số hiển thị x CTR x CR. Hãy nói rằng trong từ 20.000 hiển thị, bạn có 5% nhấp chuột (CTR) tới trang đích của bạn (trang web) và 30% trong số 5% này trở thành khách hàng (CR):
+- **CTR**
+    - `Click Through Rate` là _số nhấp chuột / lần quảng cáo hiển thị_ được biểu thị dưới dạng phần trăm. `CTR = click/display`
+
+- **CPA**
+    - `Cost Per Action`: giá cho 01 lần tương tác với quảng cáo.    
+    
+    - `CPA = chi tiêu / số hiển thị x CTR x CR`. Ví dụ: trong 20.000 lượt hiển thị, bạn có `CTR = 5%` (tỉ lệ nhấp chuột là 5%)) tới trang đích của bạn và 30% trong số 5% này trở thành khách hàng (CR):
     _CPA = $200 / (20.000 x 0,05 x 0,30) = $0,67 là chi phí mỗi lần có khách hàng mua sản phẩm._
 
-- **CTR: Click Through Rate**
-    - `CTR` là số nhấp chuột mà quảng cáo của bạn nhận được chia cho số lần quảng cáo hiển thị được biểu thị dưới dạng phần trăm (số nhấp chuột ÷ số lần hiển thị = CTR).
-    - `CTR` cao là chỉ báo tốt rằng người dùng nhận thấy quảng cáo của bạn hữu ích và có liên quan.
 
